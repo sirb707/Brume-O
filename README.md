@@ -1,5 +1,5 @@
 # Brume-O
-# Hi, I&#39;m [Your Name]! ��
+# Hi, I&#39;m [Brume O]! ��
 ### �� About Me
 - ��️ Cybersecurity Specialist
 - �� Exploring (edit this to suit you -Cloud Security, AI in Cybersecurity,
